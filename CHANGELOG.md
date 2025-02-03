@@ -1,3 +1,25 @@
+## [1.1.5](https://github.com/IBM/container-registry-go-sdk/compare/v1.1.4...v1.1.5) (2025-01-20)
+
+
+### Bug Fixes
+
+* **project:** update golang.org/x/net for vuln fix ([#41](https://github.com/IBM/container-registry-go-sdk/issues/41)) ([1993c01](https://github.com/IBM/container-registry-go-sdk/commit/1993c018f7bb7d1aa242f073d1fbe4ce600617be))
+
+## [1.1.4](https://github.com/IBM/container-registry-go-sdk/compare/v1.1.3...v1.1.4) (2025-01-06)
+
+
+### Bug Fixes
+
+* **project:** update golang.org/x/crypto via github.com/IBM/go-sdk-core/v5 ([6b819f0](https://github.com/IBM/container-registry-go-sdk/commit/6b819f05a679b8c00439c0c7e04af7b764d8cb63))
+
+## [1.1.3](https://github.com/IBM/container-registry-go-sdk/compare/v1.1.2...v1.1.3) (2024-11-22)
+
+
+### Bug Fixes
+
+* **project:** bump cross-spawn for CVE-2024-21538 ([#37](https://github.com/IBM/container-registry-go-sdk/issues/37)) ([02cf363](https://github.com/IBM/container-registry-go-sdk/commit/02cf3632f229a039149393758de016de496ac545))
+* **release:** update go version conditional for deploy ([#39](https://github.com/IBM/container-registry-go-sdk/issues/39)) ([cf9d227](https://github.com/IBM/container-registry-go-sdk/commit/cf9d227bcdbc70f6903706b684fd4b7d4f387db1))
+
 ## [1.1.2](https://github.com/IBM/container-registry-go-sdk/compare/v1.1.1...v1.1.2) (2024-08-13)
 
 
